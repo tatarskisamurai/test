@@ -1,4 +1,4 @@
-/node modules
+/node_modules
 
 /coverage
 
@@ -16,3 +16,5 @@ yarn-error.log*
 
 folder
 ladno
+package.json
+package-lock.json
